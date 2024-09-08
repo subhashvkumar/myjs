@@ -1,0 +1,2 @@
+# myjs
+my javascrpt learning
